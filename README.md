@@ -6,6 +6,7 @@ Create a Dynamic Queue and its Algorithms implemented via a Linked List. HW for 
  Use the Dynamic Queue class with member functions.
 
  Last week’s homework:
+ <br><br>
  “Design an inventory class that stores the following
  members:
  
